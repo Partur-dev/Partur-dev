@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Partur1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Partur-dev&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+![Partur's GitHub stats](https://github-readme-stats.vercel.app/api?username=partur-dev&count_private=true&show_icons=true&theme=github_dark&custom_title=Partur's%20GitHub%20Stats)
 
 <!--
 **Partur1/Partur1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
