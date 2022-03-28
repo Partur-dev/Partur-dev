@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 partur-dev@github
 ----------------
 
-       OS  :  Windows 11
+       OS  :  Arch Linux
     Shell  :  zsh 5.8
- Terminal  :  Windows Terminal
+ Terminal  :  Konsole
 Languages  :  C++, TypeScript, C#, Rust
   Discord  :  497770123604525057
  Telegram  :  @partur1
