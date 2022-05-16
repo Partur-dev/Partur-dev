@@ -28,7 +28,7 @@ partur-dev@github
 ----------------
 
        OS  :  Arch Linux
-    Shell  :  fish 3.4.1
+    Shell  :  fish 3.4
  Terminal  :  Kitty
 Languages  :  C++, TypeScript, Python, C#, Rust
   Discord  :  497770123604525057
