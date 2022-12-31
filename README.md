@@ -27,10 +27,9 @@ Here are some ideas to get you started:
 partur-dev@github
 ----------------
 
-       OS  :  Arch Linux
-    Shell  :  fish 3.4
- Terminal  :  Kitty
-Languages  :  C++, TypeScript, Python, C#, Rust, Elixir
-  Discord  :  497770123604525057
- Telegram  :  @partur1
+       OS:  macOS Ventura
+    Shell:  zsh
+Languages:  C++, TypeScript, Python, C#, Rust, Elixir
+  Discord:  497770123604525057
+ Telegram:  @partur1
 ```
