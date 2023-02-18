@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 > neofetch
 ```
 
-<img align="left" src="https://avatars.githubusercontent.com/u/57731289?v=4" alt="logo.png" width="200" /> 
+<img align="left" src="https://avatars.githubusercontent.com/u/57731289?v=4" alt="logo.png" width="190" /> 
 
 ```cs
 partur-dev@github
@@ -30,6 +30,6 @@ partur-dev@github
        OS:  macOS Ventura
     Shell:  zsh
 Languages:  C++, TypeScript, Python, C#, Rust, Elixir
-  Discord:  497770123604525057
- Telegram:  @partur1
+  Discord:  новогодний кошк#1337
+ Telegram:  @parturdev
 ```
