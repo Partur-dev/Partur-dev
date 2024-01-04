@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 partur-dev@github
 ----------------
 
-       OS:  macOS Ventura
+       OS:  macOS Sonoma
     Shell:  zsh
 Languages:  C++, TypeScript, Python, C#, Rust, Elixir
-  Discord:  новогодний кошк#1337
- Telegram:  @parturdev
+  Discord:  partur
+ Telegram:  @partur1
 ```
