@@ -35,7 +35,7 @@ Languages:  C++, TypeScript, Python, C#, Rust, Elixir
 ```
 
 ```zsh
-> counter
+> curl count.akame.moe/@Partur-dev
 ```
 
 <img src="https://count.akame.moe/@Partur-dev?theme=moebooru">
