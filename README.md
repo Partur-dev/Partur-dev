@@ -24,14 +24,13 @@ Here are some ideas to get you started:
 <img align="left" src="https://avatars.githubusercontent.com/u/57731289?v=4" alt="logo.png" width="170" /> 
 
 ```cs
-partur-dev@github
-----------------
-
-       OS:  macOS Sonoma
-    Shell:  zsh
-Languages:  C++, TypeScript, Python, C#, Rust, Elixir
-  Discord:  partur
- Telegram:  @partur1
+Partur-dev@github
+-----------------
+OS: macOS Sonoma
+Shell: zsh
+Languages: C++, Rust, TS, Py
+Discord: partur
+Telegram: @partur1
 ```
 
 ```zsh
