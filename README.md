@@ -33,3 +33,10 @@ Languages:  C++, TypeScript, Python, C#, Rust, Elixir
   Discord:  partur
  Telegram:  @partur1
 ```
+
+```zsh
+> counter
+```
+
+<img src="https://count.akame.moe/@Partur-dev?theme=moebooru">
+
