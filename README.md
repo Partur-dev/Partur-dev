@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 > neofetch
 ```
 
-<img align="left" src="https://avatars.githubusercontent.com/u/57731289?v=4" alt="logo.png" width="170" /> 
+<img align="left" src="https://avatars.githubusercontent.com/u/57731289?v=4" alt="logo.png" width="152" /> 
 
 ```cs
 Partur-dev@github
