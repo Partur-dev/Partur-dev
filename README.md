@@ -29,7 +29,7 @@ Partur-dev@github
 OS: macOS Sequoia
 Shell: zsh
 Languages: C++, Rust, TS, Py
-Discord: partur
+Discord: parturdev
 Telegram: @partur1
 ```
 
