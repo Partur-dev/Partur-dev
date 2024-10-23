@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ```cs
 Partur-dev@github
 -----------------
-OS: macOS Sonoma
+OS: macOS Sequoia
 Shell: zsh
 Languages: C++, Rust, TS, Py
 Discord: partur
