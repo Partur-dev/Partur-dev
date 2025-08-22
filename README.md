@@ -37,5 +37,5 @@ Telegram: @partur1
 > curl count.akame.moe/@Partur-dev
 ```
 
-<img src="https://count.akame.moe/@Partur-dev?theme=moebooru">
+<img src="https://count.getloli.com/@Partur-dev?theme=moebooru">
 
