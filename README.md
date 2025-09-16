@@ -34,7 +34,7 @@ Telegram: @partur1
 ```
 
 ```zsh
-> curl count.akame.moe/@Partur-dev
+> curl count.getloli.com/@Partur-dev
 ```
 
 <img src="https://count.getloli.com/@Partur-dev?theme=moebooru">
