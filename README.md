@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ```zsh
-> neofetch
+> fastfetch
 ```
 
 <img align="left" src="https://avatars.githubusercontent.com/u/57731289?v=4" alt="logo.png" width="152" /> 
@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 ```cs
 Partur-dev@github
 -----------------
-OS: macOS Sequoia
-Shell: zsh
+OS: macOS Tahoe
+Shell: fish
 Languages: C++, Rust, TS, Py
 Discord: parturdev
 Telegram: @partur1
